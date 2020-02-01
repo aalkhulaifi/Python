@@ -64,6 +64,8 @@ for subject in hanan.subjects:
 
 hanan.greeting()
 jaber.greeting()
+ 
+# Dictionary of objects.
 
 students = {
 	"male": [jaber],
