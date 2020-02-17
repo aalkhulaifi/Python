@@ -1,4 +1,6 @@
-# while loops will continue until the condition becomes False.
+'''
+while loops will continue until the condition becomes False.
+'''
 index = 0
 while index < 5:
 	print(index)

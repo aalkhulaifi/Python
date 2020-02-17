@@ -1,3 +1,5 @@
+'''
+'''
 print("Welcome to the special recruitment program, please answer the following questions: ")
 
 skills = ["Python", "C++", "Javascript", "Running", "Eating"]

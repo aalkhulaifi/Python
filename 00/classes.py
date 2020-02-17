@@ -1,6 +1,8 @@
-# The variables inside the classes is called attributes.
-# Functions inside clases is called methods. Methods with double under scores called dunder methods and they are reserved by Python.
-# Every method inside a class, has to have a parameter called 'self' as the first parameter.
+'''
+The variables inside the classes is called attributes.
+Functions inside clases is called methods. Methods with double under scores called dunder methods and they are reserved by Python.
+Every method inside a class, has to have a parameter called 'self' as the first parameter.'''
+
 class Person:
 	def __init__(self, name_parameter, age_parameter):
 		self.name = name_parameter

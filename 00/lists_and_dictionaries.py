@@ -1,4 +1,6 @@
-# Lists: is a series of elments that have a specific order. 
+'''
+Lists: is a series of elments that have a specific order. 
+''' 
 colors = ["Blue", "Red", "Cyan", "Violet"]
 
 print(colors) #prints the entire list
